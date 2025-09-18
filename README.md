@@ -31,10 +31,10 @@
 **Deep Learning:** Design neural networks for NLP, computer vision, and advanced AI applications. 
 **Data Analysis:** Clean, explore, and visualize data to uncover trends and insights. 
 **Big Data & Data Engineering:** Process and manage massive datasets using PySpark, Databricks, Airflow, ETL/ELT pipelines. 
-**AI Engineering:** Deploy AI models into production for real-time predictions and intelligent automation. |  
+**AI Engineering:** Deploy AI models into production for real-time predictions and intelligent automation.   
 **Dashboard & Business Intelligence:** Build interactive dashboards and visualizations using Excel, Tableau, and Power BI. 
-**Web & App Design:** Craft intuitive user interfaces and prototypes using Figma & Canva. |  
-**Digital Marketing:** Optimize SEO, manage social media, run campaigns, and automate workflows for maximum engagement. |
+**Web & App Design:** Craft intuitive user interfaces and prototypes using Figma & Canva. 
+**Digital Marketing:** Optimize SEO, manage social media, run campaigns, and automate workflows for maximum engagement. 
 **Programming & DevOps:** Python, R, SQL, Scala, C/C++ for analytics, modeling, and automation. Use Docker for containerization and scalable deployment.  
 
 ✨ **Philosophy & Work Ethic:**  
